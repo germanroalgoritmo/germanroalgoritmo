@@ -1,4 +1,4 @@
 - 👋 Hi, I’m German Rodriguez
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning backend
 - 📫 How to reach me german.rodriguezgu@gmail.com
